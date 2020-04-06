@@ -1,2 +1,3 @@
-MOPE_lab3
-Teriatkin Nazar IV-82
+# MOPE_lab3
+Teriatkin Nazar 
+IV-82
